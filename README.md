@@ -1,4 +1,6 @@
-# Stock Price Predictor
+# Stock Sense
+
+🚀 **Live Demo**: [Stock Sense App](https://stock-sense-mk7403.streamlit.app/)
 
 This project is an interactive web application built with Streamlit that predicts future stock prices using a hybrid GRU-LSTM neural network model. It fetches historical stock data from Yahoo Finance, enhances it with technical indicators (Close, RSI, MACD, EMA), and provides visualizations and downloadable predictions.
 
