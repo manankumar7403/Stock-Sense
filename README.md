@@ -16,8 +16,8 @@ This project is an interactive web application built with Streamlit that predict
 ## Installation
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/mk7403/stock-price-predictor.git
-   cd stock-price-predictor
+   git clone https://github.com/mk7403/Stock-Sense.git
+   cd Stock-Sense
    ```
 
 2. **Create a Virtual Environment** (optional but recommended):
