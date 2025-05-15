@@ -129,4 +129,4 @@ Contributions are welcome! Please:
 This tool is for educational purposes. Stock predictions are not financial advice; markets are inherently uncertain. Use at your own risk.
 
 ## License
-This project is licensed under the [MIT License](LICENSE.txt).
+This project is licensed under the [MIT License](LICENSE).
